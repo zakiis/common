@@ -3,13 +3,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.matic</groupId>
-    <artifactId>matic-parent</artifactId>
+    <groupId>com.github.zakiis</groupId>
+    <artifactId>zakiis-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <relativePath>../parent/pom.xml</relativePath>
   </parent>
   
-  <artifactId>matic-algorithm</artifactId>
-  <name>matic-algorithm</name>
+  <artifactId>zakiis-algorithm</artifactId>
+  <name>zakiis-algorithm</name>
   <url>http://maven.apache.org</url>
   
   <properties>

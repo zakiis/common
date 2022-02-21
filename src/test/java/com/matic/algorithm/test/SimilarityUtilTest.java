@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.matic.algorithm.SimilarityUtil;
+import com.zakiis.algorithm.SimilarityUtil;
 
 public class SimilarityUtilTest {
 

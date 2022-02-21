@@ -1,4 +1,4 @@
-package com.matic.algorithm;
+package com.zakiis.algorithm;
 
 /**
  * 计算两个字符串的相似度
