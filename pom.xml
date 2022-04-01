@@ -3,15 +3,16 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.github.zakiis</groupId>
+    <groupId>io.github.zakiis</groupId>
     <artifactId>zakiis-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <relativePath>../parent/pom.xml</relativePath>
   </parent>
   
   <artifactId>zakiis-common</artifactId>
   <name>zakiis-common</name>
-  <url>http://maven.apache.org</url>
+  <description>common utils for java programing</description>
+  <url>https://zakiis.github.io</url>
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
