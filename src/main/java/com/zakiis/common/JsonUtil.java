@@ -1,4 +1,4 @@
-package com.zakiis.algorithm;
+package com.zakiis.common;
 
 import java.text.SimpleDateFormat;
 import java.util.Locale;

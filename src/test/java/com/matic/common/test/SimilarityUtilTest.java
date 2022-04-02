@@ -1,10 +1,10 @@
-package com.matic.algorithm.test;
+package com.matic.common.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.zakiis.algorithm.SimilarityUtil;
+import com.zakiis.common.SimilarityUtil;
 
 public class SimilarityUtilTest {
 

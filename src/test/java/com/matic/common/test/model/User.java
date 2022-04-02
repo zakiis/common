@@ -1,4 +1,4 @@
-package com.matic.algorithm.test.model;
+package com.matic.common.test.model;
 
 import java.util.Date;
 
