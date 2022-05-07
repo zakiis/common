@@ -1,4 +1,4 @@
-package com.matic.common.test;
+package com.zakiis.common.test;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -11,9 +11,9 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import com.matic.common.test.model.User;
 import com.zakiis.common.CsvUtil;
 import com.zakiis.common.JsonUtil;
+import com.zakiis.common.test.model.User;
 
 public class CsvUtilTest {
 

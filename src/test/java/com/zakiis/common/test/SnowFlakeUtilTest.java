@@ -1,4 +1,4 @@
-package com.matic.common.test;
+package com.zakiis.common.test;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.matic.common.test;
+package com.zakiis.common.test;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -7,8 +7,8 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.matic.common.test.model.User;
 import com.zakiis.common.JsonUtil;
+import com.zakiis.common.test.model.User;
 
 public class JsonUtilTest {
 	

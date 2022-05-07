@@ -1,4 +1,4 @@
-package com.matic.common.test;
+package com.zakiis.common.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;

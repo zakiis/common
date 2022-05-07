@@ -1,4 +1,4 @@
-package com.matic.common.test.model;
+package com.zakiis.common.test.model;
 
 import java.util.Date;
 
